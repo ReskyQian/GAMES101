@@ -1,5 +1,10 @@
-build
+test-opencv
+opencv-4.7.0
+eigen-3.4.0
+*.tar.gz
+*.zip
 clear.bat
+build
 
 .vscode
 
